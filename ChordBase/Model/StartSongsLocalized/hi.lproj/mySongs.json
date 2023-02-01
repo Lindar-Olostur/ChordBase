@@ -1,0 +1,46 @@
+{
+  "editTextHidden" : false,
+  "isDarkMode" : false,
+  "editBackHidden" : false,
+  "songs" : [
+    {
+      "time" : 165,
+      "fontName" : "San Francisco",
+      "rotation" : 0,
+      "tags" : [
+
+      ],
+      "fnColor" : [
+        1,
+        0,
+        0,
+        0
+      ],
+      "isItalic" : false,
+      "bgPic" : "bg0",
+      "withTitles" : false,
+      "picFromGallery" : "",
+      "textAlignment" : 0,
+      "name" : "Bhaag DK Bose",
+      "isBold" : false,
+      "isSharp" : true,
+      "id" : "8D4DBEFA-E369-496A-875B-44588F0076C0",
+      "textSize" : 17,
+      "lineSpace" : 3,
+      "blur" : 0,
+      "scale" : 1,
+      "isFavorite" : false,
+      "text" : "Bm \r\nF#\r\n \r\n[Verse 1]\r\nBm           D        A          Bm\r\nDaddy mujhse bola, tu galati hai meri\r\nBm     D          A          Bm\r\nTujhpe Zindagani, guilty hai meri\r\nD         Em\r\nSaabun ki shaqal mein,\r\n            G           F#\r\nBeta tu toh nikla keval jhaag\r\n      F#\r\nJhaag jhaag bhaag\r\n \r\n[Pre-Chorus]\r\n      Bm    D          A       Bm\r\nBhaag bhaag bhaag bhaag\r\n      Bm    D          A       Bm\r\nBhaag bhagh bhaag bhaag\r\n \r\n[Verse 2]\r\nBm         D         A          Bm\r\nToh by god lag gayi, kya se kya hua\r\nBm        D       A           Bm\r\nDekha toh katora, jhaanka toh kuaa\r\nD            Em\r\nPiddi jaissa chuhaa\r\nG                        F#\r\ndum pakda toh nikla kala naag\r\n          F#\r\nNaag naag bhaag\r\n \r\n[Chorus]\r\nBm                   D\r\nBhaag bhaag DK bose, DK bose, D K bose\r\nBm                  G\r\nBhaag bhaag DK bose DK bhaag\r\nBm                   D\r\nBhaag bhaag DK bose, DK bose, D K bose\r\nA                   Bm\r\nBhaag bhaag DK bose DK bhaag\r\nBm                 D\r\nAandhi aayi aandhi aayi aandhi aayi aandhi\r\nA                    G\r\nBhaag bhaag DK bose, DK bhaag\r\nBm                   D\r\nBhaag bhaag DK bose, DK bose, D K bose\r\nA           Bm\r\nAandhi Aayi hai\r\n\n[Verse 3]\r\nBm\r\nHum toh hai kabootarr\r\n   Em                         D\r\nDo pahiye ka ek scooter Zinda gi\r\n   A           E\r\nJo Dhakelo toh Chale\r\n     Bm\r\nArre kismat ki hai kadki\r\n     Em                    D\r\nRoti kapda aur larki teeno hi\r\n       A        E\r\nPaapad belo toh miley\r\n \r\n[Bridge]\r\n    G     Em     A\r\nYeh bheja garden hai\r\n    G       Em    F#  A\r\nAur tension maali hai yeah\r\nD            Em\r\nMann ka taan pura\r\nG                           F#\r\nFrustration me chhede ek hi Raag\r\n          F#\r\nRaag raag bhaag\r\n \r\n[Chorus]\r\nBm                   D\r\nBhaag bhaag DK bose, DK bose, D K bose\r\nBm                  G\r\nBhaag bhaag DK bose DK bhaag\r\nBm                   D\r\nBhaag bhaag DK bose, DK bose, D K bose\r\nA                   Bm\r\nBhaag bhaag DK bose DK bhaag\r\nBm                 D\r\nAandhi aayi aandhi aayi aandhi aayi aandhi\r\nA                    G\r\nBhaag bhaag DK bose, DK bhaag\r\nBm                   D\r\nBhaag bhaag DK bose, DK bose, D K bose\r\nA           Bm\r\nAandhi Aayi hai\r\n \r\n[Verse 1]\r\nBm           D        A          Bm\r\nDaddy mujhse bola, tu galati hai meri\r\nBm     D          A          Bm\r\nTujhpe Zindagani, guilty hai meri\r\nD         Em\r\nSaabun ki shaqal mein,\r\n            G           F#\r\nBeta tu toh nikla keval jhaag\r\n      F#\r\nJhaag jhaag bhaag\r\n \r\n[Chorus]\r\nBm                   D\r\nBhaag bhaag DK bose, DK bose, D K bose\r\nBm                  G\r\nBhaag bhaag DK bose DK bhaag\r\nBm                   D\r\nBhaag bhaag DK bose, DK bose, D K bose\r\nA                   Bm\r\nBhaag bhaag DK bose DK bhaag\r\nBm                 D\r\nAandhi aayi aandhi aayi aandhi aayi aandhi\r\nA                    G\r\nBhaag bhaag DK bose, DK bhaag\r\nBm                   D\r\nBhaag bhaag DK bose, DK bose, D K bose\r\nA           Bm\r\nAandhi Aayi hai\r",
+      "bgColor" : [
+        1,
+        1,
+        1,
+        1
+      ],
+      "rate" : 0,
+      "author" : "Ram Sampath"
+    }
+  ],
+  "url" : "https:\/\/www.google.com",
+  "leftHanded" : false
+}

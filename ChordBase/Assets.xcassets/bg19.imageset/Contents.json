@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "1585949618_oblaka_nebo_chb_151987_1440x2560.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

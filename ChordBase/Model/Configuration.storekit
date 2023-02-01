@@ -1,0 +1,134 @@
+{
+  "identifier" : "23FDD570",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "278272F4",
+      "localizations" : [
+        {
+          "description" : "Your gratitude for my work",
+          "displayName" : "Buy me a coffee",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Ваша благодарность за мою работу",
+          "displayName" : "Купите мне кофе",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "buyMeCoffee",
+      "referenceName" : "Coffee",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "14.99",
+      "familyShareable" : false,
+      "internalID" : "2B585348",
+      "localizations" : [
+        {
+          "description" : "Your gratitude for my work",
+          "displayName" : "Buy me a drink",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "buyMeDrink",
+      "referenceName" : "Drink",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "9.99",
+      "familyShareable" : false,
+      "internalID" : "E6E649DD",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "buyMePizza",
+      "referenceName" : "Pizza",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "A7EA4FFF",
+      "localizations" : [
+
+      ],
+      "name" : "Customization",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "4.99",
+          "familyShareable" : true,
+          "groupNumber" : 1,
+          "internalID" : "D425985A",
+          "introductoryOffer" : {
+            "internalID" : "34CD9CF6",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P3D"
+          },
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "fullEditor",
+          "recurringSubscriptionPeriod" : "P6M",
+          "referenceName" : "FullEditor",
+          "subscriptionGroupID" : "A7EA4FFF",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "0.99",
+          "familyShareable" : true,
+          "groupNumber" : 1,
+          "internalID" : "576585D1",
+          "introductoryOffer" : {
+            "internalID" : "824FD18B",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P3D"
+          },
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "fullEditor1",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "FullEditor1",
+          "subscriptionGroupID" : "A7EA4FFF",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 2
+  }
+}

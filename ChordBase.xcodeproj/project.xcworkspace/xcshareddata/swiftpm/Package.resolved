@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BottomSheet",
+        "repositoryURL": "https://github.com/lucaszischka/BottomSheet",
+        "state": {
+          "branch": null,
+          "revision": "6f928f6d52e3f476c672884fa97d9a6eb0f0d9d7",
+          "version": "3.0.2"
+        }
+      },
+      {
+        "package": "ImagePickerSwiftUI",
+        "repositoryURL": "https://github.com/tsuzukihashi/ImagePickerSwiftUI",
+        "state": {
+          "branch": null,
+          "revision": "83a51823bbff398b35738d55421a611ab9008fd1",
+          "version": "1.0.8"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

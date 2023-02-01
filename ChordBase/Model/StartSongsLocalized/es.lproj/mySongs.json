@@ -1,0 +1,46 @@
+{
+  "editTextHidden" : false,
+  "isDarkMode" : false,
+  "editBackHidden" : false,
+  "songs" : [
+    {
+      "time" : 165,
+      "fontName" : "San Francisco",
+      "rotation" : 0,
+      "tags" : [
+
+      ],
+      "fnColor" : [
+        1,
+        0,
+        0,
+        0
+      ],
+      "isItalic" : false,
+      "bgPic" : "bg0",
+      "withTitles" : false,
+      "picFromGallery" : "",
+      "textAlignment" : 0,
+      "name" : "Gimme tha power",
+      "isBold" : false,
+      "isSharp" : true,
+      "id" : "8D4DBEFA-E369-496A-875B-44588F0076C0",
+      "textSize" : 15,
+      "lineSpace" : 3,
+      "blur" : 0,
+      "scale" : 1,
+      "isFavorite" : false,
+      "text" : "[Intro] (x2)\r\nDm C A# A\r\n \r\n[Verse]\r\nDm                   C\r\nLa policía te esta extorsionando dinero\r\nA#                        A\r\npero ellos viven de lo que tu estas pagando\r\nDm                       C\r\ny si te tratan como un delincuente ladrón\r\nA#                     A\r\nno es tu culpa dale gracias al regente \r\nDm                              C\r\nhay que arrancar el problema de raíz   \r\nA#                      A\r\ny cambiar al gobierno de nuestro país\r\nDm                            C\r\na la gente que esta en la burocracia      \r\nA#                              A\r\nesa gente que le gustan las migajas                 \r\nDm                       C\r\nyo por eso me quejo y me quejo\r\nA#                                    A\r\nporque aquí es donde vivo y yo ya no soy un pendejo\r\nDm                     C\r\nque no watchas los puestos del gobierno \r\nA#                        A\r\nhay personas que se están enriqueciendo \r\nDm                   C\r\nGente que vive en la pobreza\r\nA#                          A\r\ny nadie hace nada por que a nadie le interesa\r\nDm                      C\r\nla gente de arriba te detesta \r\nA#                            A\r\nhay mas gente que quiere que caigan sus cabezas \r\nDm                     C\r\nsi le das mas poder al poder\r\nA#                      A\r\nmas duro te van a venir a coger \r\nDm                         C\r\npor que fuimos potencia mundial \r\nA#                 A\r\nsomos pobres nos manejan mal\r\n \r\n[Chorus]\r\nDm                  C\r\nDame dame dame dame todo el power\r\nA#                 A\r\npara que te demos en la madre\r\nDm                      C\r\ngimme gimme gimme gimme todo el poder\r\nA#                  A\r\nso i can come around to joder\r\n \r\n[Instrumental]\r\nDm C A# A\r\n \r\n[Verse 2]\r\nDm                         C\r\nPorque no nacimos donde no hay que comer \r\nA#                               A\r\nno hay porque preguntarnos como le vamos a hacer \r\nDm                         C\r\nsi nos pintan como unos huevones \r\nA#                 A\r\nno lo somos viva México cabrones\r\nDm                         C\r\nque se sienta el power mexicano \r\nA#                         A\r\nque se sienta todos juntos como hermanos\r\nDm                  C\r\npor que somos mas jalamos mas parejo \r\nA#                            A\r\npor que estar siguiendo a una bola de pendejos \r\nDm                           C\r\nque nos llevan por donde les conviene \r\nA#                       A\r\ny es nuestro sudor lo que los mantiene \r\nDm           C\r\nlos mantiene comiendo pan caliente \r\nA#                       A\r\nese pan es el pan de nuestra gente\r\n \r\n[Chorus]\r\nDm                  C\r\nDame dame dame dame todo el power\r\nA#                  A\r\npara que te demos en la madre\r\nDm                      C\r\ngimme gimme gimme gimme todo el poder\r\nA#                  A\r\nso i can come around to joder\r\n \r\n[Instrumental]\r\nDm C A# A\r\n \r\n[Bridge]\r\nDm              C\r\nEl pueblo unido jamas será vencido \r\n A#                  A\r\nel tito y el huidos jamas serán vencidos\r\n \r\n[Outro]\r\nDm C A# A\r\n",
+      "bgColor" : [
+        1,
+        1,
+        1,
+        1
+      ],
+      "rate" : 0,
+      "author" : "Molotov"
+    }
+  ],
+  "url" : "https:\/\/www.google.com",
+  "leftHanded" : false
+}
